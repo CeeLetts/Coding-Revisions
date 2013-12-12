@@ -1,0 +1,13 @@
+body{
+	background: url(paper.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+#header{
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-size: 120%;
+}
+
+.apple{
+	float: right;
+}
